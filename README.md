@@ -3,7 +3,6 @@ Olha o Ônibus é um aplicativo da equipe Farias - Labex.
 
 Sabemos que você se preocupa com o modo como suas informações pessoais são usadas e compartilhadas.
 
-
 O QUE NÓS COLETAMOS?
 
 ID exclusivo do dispositivo e registro
@@ -39,13 +38,9 @@ Correção: Você pode nos pedir para atualizar seus dados.
 
 Para fazer estes ou quaisquer outros pedidos relacionados às suas informações pessoais, você pode nos enviar um e-mail para fabriciosouzafarias@gmail.com
 
-
-
 CONSENTIMENTO DO USUÁRIO
 
 Ao usar o aplicativo Olha o Ônibus, você consente que suas informações pessoais sejam transferidas para nossos servidores e que os dados de localização de seus ônibus de viagem sejam compartilhados com outros usuários, conforme descrito nesta Política de Privacidade.
-
-
 
 MUDANÇAS NESTA POLÍTICA DE PRIVACIDADE
 
@@ -54,10 +49,6 @@ Nós, da equipe Farias – Labex, temos o direito de fazer alterações nesta Po
 DÚVIDAS
 
 Dúvidas sobre esta Política de Privacidade? Escreva para fabriciosouzafarias@gmail.com
-Última atualização: 21 de outubro de 2018.
-Equipe Farias - Labex
-
-
 
 Última atualização: 21 de outubro de 2018.
 Equipe Farias - Labex
