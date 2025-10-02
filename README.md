@@ -32,7 +32,10 @@ Não salvamos em nossos servidores a identificação do usuário que realizou de
 
 SEUS DIREITOS PARA EXCLUIR E CORRIGIR SUAS INFORMAÇÕES
 
-Exclusão: Você pode nos pedir para apagar todos ou alguns de seus dados pessoais.
+Exclusão: A exclusão da conta pode ser solicitada diretamente pelo aplicativo, na tela de perfil do usuário.
+Ao selecionar essa opção, o usuário será direcionado a um questionário de exclusão que deverá ser devidamente preenchido.
+Após o envio do questionário, será encaminhada uma mensagem ao endereço de e-mail cadastrado, por meio da qual o usuário deverá confirmar a solicitação.
+A exclusão da conta somente será efetivada após a confirmação realizada pelo e-mail recebido.
 
 Correção: Você pode nos pedir para atualizar seus dados.
 
@@ -50,5 +53,5 @@ DÚVIDAS
 
 Dúvidas sobre esta Política de Privacidade? Escreva para fabriciosouzafarias@gmail.com
 
-Última atualização: 21 de outubro de 2018.
+Última atualização: 02 de outubro de 2025.
 Equipe Farias - Labex
